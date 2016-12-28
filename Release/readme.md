@@ -22,4 +22,4 @@ Original mod thread: http://community.playstarbound.com/threads/xnb-smapi-farmco
  - Removed the cheaty desert teleporter
  - Removed broken boats
  
- ![FARM PIC](https://github.com/cragrim/StardewValleyOmniFARMfork/tree/master/Release/OmniFarmFork.PNG)
+ ![OmniFarmFork Screenshot](https://github.com/cragrim/StardewValleyOmniFARMfork/tree/master/Release/OmniFarmFork.PNG)
