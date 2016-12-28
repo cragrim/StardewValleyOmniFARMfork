@@ -14,7 +14,7 @@ Original mod thread: http://community.playstarbound.com/threads/xnb-smapi-farmco
 4. Download OmniFarm-2.0.1.7z and extract it into your \Stardew Valley\Mods folder
 5. (Optional) Make a backup copy of \Stardew Valley\Content\Maps\Farm_Combat.xnb
 5. Download Farm_Combat fork V1.7z and extract Farm_Combat.xnb into \Stardew Valley\Content\Maps and overwrite.
-6. Startup StardewModdingAPI.exe to play if you start using Stardew Valley.exe it will not work properly.
+6. Startup StardewModdingAPI.exe to play! (If you start using Stardew Valley.exe the mod will not work properly)
 
 
 
