@@ -22,4 +22,4 @@ Original mod thread: http://community.playstarbound.com/threads/xnb-smapi-farmco
  - Removed the cheaty desert teleporter
  - Removed broken boats
  
- ![Farm screenshot from inside tiDE](/OmniFarmFork.png?raw=true "Farm screenshot from inside tiDE")
+ ![Farm screenshot from inside tiDE](/Release/OmniFarmFork.PNG?raw=true "Farm screenshot from inside tiDE")
