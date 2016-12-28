@@ -1,6 +1,6 @@
 # OmniFARMfork
 
-Fork of the [XNB SMAPI FarmCombat Mod] OmniFarm mod for Stardew Valley Version: 2.0.1
+Fork of the [XNB SMAPI FarmCombat Mod] OmniFarm mod for Stardew Valley Version: 1.11 (gog.com 2.0.1)
 
 Original mod git: https://github.com/lambui/StardewValleyMod_OmniFarm
 
