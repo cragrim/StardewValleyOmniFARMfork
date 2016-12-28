@@ -1,4 +1,4 @@
-# OmniFARMfork by Cragrim
+# OmniFARMfork
 
 Fork of the [XNB SMAPI FarmCombat Mod] OmniFarm mod for Stardew Valley Version: 2.0.1
 
