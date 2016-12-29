@@ -17,7 +17,6 @@ Original mod thread: http://community.playstarbound.com/threads/xnb-smapi-farmco
 6. Startup StardewModdingAPI.exe to play! (If you start using Stardew Valley.exe the mod will not work properly)
 
 
-
 ###Changelog version 2016-12-28 release
  - Fixed some layer issues
  - Added large bridge to eastern section
@@ -33,4 +32,13 @@ Original mod thread: http://community.playstarbound.com/threads/xnb-smapi-farmco
  - Removed the cheaty desert teleporter
  - Removed broken boats
  
- ![Farm screenshot from inside tiDE](/Release/OmniFarmFork.PNG?raw=true "Farm screenshot from inside tiDE")
+![Farm screenshot from inside tiDE](/Release/OmniFarmFork.PNG?raw=true "Farm screenshot from inside tiDE")
+ 
+ ###Optional larger Farm cave
+ - Tillable and plantable area
+ - Seeds only work for current season
+ - Small stream where you can refill watering can
+ - There has been a cave in so you need to clear it before using the space
+ - The farm cave does not need SMAPI or OmniFarm to be installed to work
+ 
+![Farmcave screenshot from inside tiDE](/Release/ExpandedFarmCave.png?raw=true "Optional larger farm cave")
