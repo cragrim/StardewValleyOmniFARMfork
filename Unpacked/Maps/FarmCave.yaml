@@ -16,7 +16,8 @@ extractedMaps:
     - 
         path: ""
         tilesheets: 
-            - "Mines\\mine.png"
+            - "mine.png"
+            - "mine.png"
             - "paths.png"
 
 

@@ -38,7 +38,6 @@ Original mod thread: http://community.playstarbound.com/threads/xnb-smapi-farmco
  - Tillable and plantable area
  - Seeds only work for current season
  - Small stream where you can refill watering can
- - There has been a cave in so you need to clear it before using the space
  - The farm cave does not need SMAPI or OmniFarm to be installed to work
  
 ![Farmcave screenshot from inside tiDE](/Release/ExpandedFarmCave.png?raw=true "Optional larger farm cave")
