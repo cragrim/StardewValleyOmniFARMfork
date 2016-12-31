@@ -16,6 +16,9 @@ Original mod thread: http://community.playstarbound.com/threads/xnb-smapi-farmco
 5. Download Farm_Combat fork V1.7z and extract Farm_Combat.xnb into \Stardew Valley\Content\Maps and overwrite.
 6. Startup StardewModdingAPI.exe to play! (If you start using Stardew Valley.exe the mod will not work properly)
 
+###Changes V2
+ - Removed hillside outcropping on topleft of map
+ - Fixed some areas where objects were not placeable
 
 ###Changelog version 2016-12-29
  - Fixed some layer issues
