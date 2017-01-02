@@ -20,6 +20,7 @@ Original mod thread: http://community.playstarbound.com/threads/xnb-smapi-farmco
  - Removed hillside outcropping on topleft of map
  - Fixed some areas where objects were not placeable
  - Changed topright cliff and added bush
+ - Added another small bridge connecting the lower eastern area
 
 ###Changelog version 2016-12-29
  - Fixed some layer issues
