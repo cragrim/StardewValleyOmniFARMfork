@@ -16,15 +16,16 @@ Original mod thread: http://community.playstarbound.com/threads/xnb-smapi-farmco
 5. Download Farm_Combat fork V1.7z and extract Farm_Combat.xnb into \Stardew Valley\Content\Maps and overwrite.
 6. Startup StardewModdingAPI.exe to play! (If you start using Stardew Valley.exe the mod will not work properly)
 
-###Changes V2
+###Changes V2 2017-01-03
  - Removed hillside outcropping on topleft of map
  - Fixed some areas where objects were not placeable
  - Changed topright cliff and added bush
  - Added another small bridge connecting the lower eastern area
  - Derped and made western bridge inpassable (fixed)
  - Removed a tree north of house for some extra space
+ - Fixed layer issue by the bridge
 
-###Changelog version 2016-12-29
+###Changelog V1 2016-12-29
  - Fixed some layer issues
  - Added large bridge to eastern section
  - Added small bridge to eastern section
