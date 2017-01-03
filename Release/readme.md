@@ -11,12 +11,15 @@ Original mod thread: http://community.playstarbound.com/threads/xnb-smapi-farmco
 2. Extract the complete zip file somewhere
 3. Start install.exe and press 1 and then enter when the black console window appears. This will enable you to use mods.
 4. Startup StardewModdingAPI.exe once and exit to create the Mods folder.
-4. Download OmniFarm-2.0.1.7z and extract it into your \Stardew Valley\Mods folder
-5. (Optional) Make a backup copy of \Stardew Valley\Content\Maps\Farm_Combat.xnb
-5. Download Farm_Combat fork V1.7z and extract Farm_Combat.xnb into \Stardew Valley\Content\Maps and overwrite.
-6. Startup StardewModdingAPI.exe to play! (If you start using Stardew Valley.exe the mod will not work properly)
+5. Download OmniFarm-2.0.1.7z and extract it into your \Stardew Valley\Mods folder
+6. (Optional) Make a backup copy of the folder \Stardew Valley\Content\
+7. Download Farm_Combat fork.7z and extract Farm_Combat.xnb and the other files into \Stardew Valley\Content\Maps and overwrite.
+8. Startup StardewModdingAPI.exe to play! (If you start using Stardew Valley.exe the mod will not work properly)
 
-###Changes V2 2017-01-03
+###Changelog V2.1
+ - Fixed dogbowl and grandpa shrine textures (extract the new files into maps as well)
+
+###Changelog V2 2017-01-03
  - Removed hillside outcropping on topleft of map
  - Fixed some areas where objects were not placeable
  - Changed topright cliff and added bush
