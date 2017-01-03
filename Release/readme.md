@@ -24,6 +24,7 @@ Original mod thread: http://community.playstarbound.com/threads/xnb-smapi-farmco
  - Derped and made western bridge inpassable (fixed)
  - Removed a tree north of house for some extra space
  - Fixed layer issue by the bridge
+ - Fixed some water reflection
 
 ###Changelog V1 2016-12-29
  - Fixed some layer issues
