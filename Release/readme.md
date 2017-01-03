@@ -21,6 +21,8 @@ Original mod thread: http://community.playstarbound.com/threads/xnb-smapi-farmco
  - Fixed some areas where objects were not placeable
  - Changed topright cliff and added bush
  - Added another small bridge connecting the lower eastern area
+ - Derped and made western bridge inpassable (fixed)
+ - Removed a tree north of house for some extra space
 
 ###Changelog version 2016-12-29
  - Fixed some layer issues
