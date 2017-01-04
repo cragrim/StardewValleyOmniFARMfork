@@ -16,6 +16,9 @@ Original mod thread: http://community.playstarbound.com/threads/xnb-smapi-farmco
 7. Download Farm_Combat fork.7z and extract Farm_Combat.xnb and the other files into \Stardew Valley\Content\Maps and overwrite.
 8. Startup StardewModdingAPI.exe to play! (If you start using Stardew Valley.exe the mod will not work properly)
 
+###Changelog V2.2
+ - Fixed some winter tiles who were not matching up at the tunnel
+
 ###Changelog V2.1
  - Fixed dogbowl and grandpa shrine textures (extract the new files into maps as well)
 
